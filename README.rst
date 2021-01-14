@@ -6,7 +6,7 @@
 PyHive
 ======
 
-PyHive is a collection of Python `DB-API <http://www.python.org/dev/peps/pep-0249/>`_ and
+PyHive {Dummy Change} is a collection of Python `DB-API <http://www.python.org/dev/peps/pep-0249/>`_ and
 `SQLAlchemy <http://www.sqlalchemy.org/>`_ interfaces for `Presto <http://prestodb.io/>`_ and
 `Hive <http://hive.apache.org/>`_.
 
